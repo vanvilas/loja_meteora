@@ -1,5 +1,5 @@
 # Loja Meteora
-Projeto com adaptação focado em acessibilidade para leitores de tela.
+Projeto responsivo com adaptação focado em acessibilidade para leitores de tela.
 
 [Clique aqui para ver o resultado!](https://vanvilas.github.io/loja_meteora/)
 
